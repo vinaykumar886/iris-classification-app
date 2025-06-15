@@ -69,6 +69,12 @@ streamlit run iris_app.py
   * petal length, petal width
 
 ---
+🌐 Live Demo
+
+🔗 Live App Link:
+👉 Click here to open the Iris Classifier Web App(https://iris-classification-app-gvozubapiutsum9smf58c3.streamlit.app/)
+
+---
 
 ## 🤝 Acknowledgements
 
